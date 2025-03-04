@@ -8,8 +8,8 @@ This project demonstrates **data analysis using Python in Jupyter Notebook**. It
 - **Final Report in HTML format**
 
 ## 📂 Files in Repository
-- `w24040371_KF7032.ipynb` → Jupyter Notebook with Python code
-- `w24040371_KF7032.html` → HTML report version of the notebook
+- `data-analysis.ipynb` → Jupyter Notebook with Python code
+- `data-analaysis.html` → HTML report version of the notebook
 - `README.md` → Project description
 
 ## 🔧 Technologies Used
