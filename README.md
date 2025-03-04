@@ -18,7 +18,6 @@ This project demonstrates **data analysis using Python in Jupyter Notebook**. It
 - **Matplotlib & Seaborn**
 - **Jupyter Notebook**
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/data-analysis-project.git
+## 🏆 Results & Findings
+![image](https://github.com/user-attachments/assets/6463c996-909b-44cf-bc9a-a7c7abbe6581)
+
